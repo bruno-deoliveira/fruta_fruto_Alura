@@ -1,8 +1,3 @@
-# curso-alura-arquitetura-css
-Projeto feito para o curso de Arquitetura CSS para Alura
-
-Protótipo:
-
 <h1 align="center">🍎🥥 Fruta & Fruto Alura 🍉🥝</h1>
 <h4 align="center"> Status: 🚀 Finished </h4>
 
@@ -24,4 +19,12 @@ Desenvolvimento do site de receitas Fruta & Fruto. Curso de Arquitetura CSS: des
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
- https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1
+## 🔖 Layout
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1). É necessário ter conta no Figma para acessá-lo.
+
+
+## 📞 Suporte
+Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
+
+<h3 align="center">Developed by Bruno Oliveira ☕</h3>
+
